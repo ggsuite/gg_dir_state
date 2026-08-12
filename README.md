@@ -1,3 +1,3 @@
-# gg_template_project
+# gg_dir_state
 
-The gg_template_project package provides various JSON helpers for dart
+The gg_dir_state package provides various JSON helpers for dart
