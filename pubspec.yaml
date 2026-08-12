@@ -1,6 +1,6 @@
 name: gg_template_project
-description: The gg_template_project package provides various JSON helpers for dart
-version: 1.0.0
+description: This package allows to track changes and state of git directories
+version: 0.0.0
 repository: https://github.com/ggsuite/gg_template_project.git
 
 environment:
