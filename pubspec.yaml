@@ -1,6 +1,6 @@
 name: gg_dir_state
 description: This package allows to track changes and state of git directories
-version: 0.0.0
+version: 0.1.0
 repository: https://github.com/ggsuite/gg_dir_state.git
 
 environment:
