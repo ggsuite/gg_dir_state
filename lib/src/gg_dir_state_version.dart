@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `gg_dir_state` package.
-const String ggDirStateVersion = '0.1.0';
+const String ggDirStateVersion = '0.2.0';
